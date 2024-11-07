@@ -1,7 +1,7 @@
 package sistemahospitalar.objetos.medicos;
 
-import sistemahospitalar.objetos.Pessoa;
-import sistemahospitalar.objetos.Sexo;
+import sistemahospitalar.objetos.caracteristicasgerais.Pessoa;
+import sistemahospitalar.objetos.caracteristicasgerais.Sexo;
 
 public class Medico extends Pessoa {
     protected Especialidade especialidade;

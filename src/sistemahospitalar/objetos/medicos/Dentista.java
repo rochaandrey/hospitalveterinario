@@ -1,6 +1,6 @@
 package sistemahospitalar.objetos.medicos;
 
-import sistemahospitalar.objetos.Sexo;
+import sistemahospitalar.objetos.caracteristicasgerais.Sexo;
 
 public class Dentista extends Medico {
     public Dentista(String nome, Sexo sexo, int DATA_DE_NASCIMENTO, String CPF) {
@@ -11,4 +11,5 @@ public class Dentista extends Medico {
     public Dentista() {
         super();
     }
+
 }

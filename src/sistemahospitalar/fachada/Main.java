@@ -1,7 +1,5 @@
 package sistemahospitalar.fachada;
 
-import sistemahospitalar.objetos.CrudListas;
-import sistemahospitalar.objetos.Listas;
 import sistemahospitalar.objetos.medicos.Medico;
 
 public class Main {

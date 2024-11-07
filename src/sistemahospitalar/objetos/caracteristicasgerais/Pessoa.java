@@ -1,4 +1,4 @@
-package sistemahospitalar.objetos;
+package sistemahospitalar.objetos.caracteristicasgerais;
 
 import java.util.Objects;
 

@@ -1,7 +1,7 @@
 package sistemahospitalar.objetos.pacientes;
 
-import sistemahospitalar.objetos.Pessoa;
-import sistemahospitalar.objetos.Sexo;
+import sistemahospitalar.objetos.caracteristicasgerais.Pessoa;
+import sistemahospitalar.objetos.caracteristicasgerais.Sexo;
 
 public class Paciente extends Pessoa {
     Plano plano;

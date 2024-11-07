@@ -1,6 +1,6 @@
 package sistemahospitalar.objetos.medicos;
 
-import sistemahospitalar.objetos.Sexo;
+import sistemahospitalar.objetos.caracteristicasgerais.Sexo;
 
 public class Ortopedista extends Medico {
     public Ortopedista(String nome, Sexo sexo, int DATA_DE_NASCIMENTO, String CPF) {
